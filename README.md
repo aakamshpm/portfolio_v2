@@ -1,1 +1,2 @@
-Design inspired from [https://](https://x.com/jshguo)
+Design inspired from [Joshua Guo](https://x.com/jshguo)
+
