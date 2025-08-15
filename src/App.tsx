@@ -1,6 +1,7 @@
 import type { ProjectData } from "./interface";
 
 function App() {
+  // @ts-ignore
   const projects: ProjectData[] = [
     {
       name: "Zip Link",
