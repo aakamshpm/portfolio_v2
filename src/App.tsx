@@ -4,7 +4,7 @@ function App() {
   const projects: ProjectData[] = [
     {
       name: "Zip Link",
-      desc: "",
+      desc: "Created a URL service that prioritizes speed and scales easily, using batching and caching to minimize stress on the database.",
       tools: ["Nest.js", "Docker", "PostgreSQL", "Prisma", "Redis"],
       githubRepo: "",
       hostedUrl: "",
@@ -12,7 +12,7 @@ function App() {
     },
     {
       name: "!THERAPIST",
-      desc: "",
+      desc: "A satirical AI chat experience that roasts your problems instead of solving them, expect savage replies, fake paywalls, and zero empathy.",
       tools: ["React", "Gemini Flash", "Copilot"],
       githubRepo: "",
       hostedUrl: "",
