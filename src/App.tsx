@@ -1,4 +1,25 @@
+import type { ProjectData } from "./interface";
+
 function App() {
+  const projects: ProjectData[] = [
+    {
+      name: "Zip Link",
+      desc: "",
+      tools: ["Nest.js", "Docker", "PostgreSQL", "Prisma", "Redis"],
+      githubRepo: "",
+      hostedUrl: "",
+      hostedUrl_2: "",
+    },
+    {
+      name: "!THERAPIST",
+      desc: "",
+      tools: ["React", "Gemini Flash", "Copilot"],
+      githubRepo: "",
+      hostedUrl: "",
+      hostedUrl_2: "",
+    },
+  ];
+
   return (
     <div className="min-h-screen font-[Nunito] bg-black text-white flex justify-center">
       <div className="w-[600px] flex flex-col justify-start p-3">
